@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesyikaturner
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C# (Unity Programming), Python and JavaScript (React).
+- 🌱 I’m currently learning C# (Unity Programming), Python and React Native.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me @jesyika.
 
